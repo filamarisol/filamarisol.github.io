@@ -1,7 +1,7 @@
 ## This is my site
 
 --------
-### Experimenting 
+### **Experimenting** 
 
 
 Making it **bold**. What about *italics*?

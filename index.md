@@ -13,7 +13,7 @@ Making it **bold**. What about *italics*?
 
 
 
-###### [Second post!](https://filamarisol.github.io/Digital%20Identities)
+###### [Second post!](https://filamarisol.github.io/Digital_Identities)
 
 
 :sparkles: :sparkles: :sparkles: :rocket: 

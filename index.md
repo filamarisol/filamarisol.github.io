@@ -5,7 +5,7 @@
 layout: home
 ---
 
-## Playing with the index
+## Home
 
 --------
 

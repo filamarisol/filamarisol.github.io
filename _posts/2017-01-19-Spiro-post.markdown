@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "#### On Lisa Spiro's “This Is Why We Fight”: Defining the Values of the Digital" Humanities."
+title:  "On Lisa Spiro's This Is Why We Fight: Defining the Values of the Digital Humanities."
 date:   2017-01-19 15:01:58 -0500
-categories: jekyll update
+categories: 
 ---
 In this post I would like to comment on the Lisa Spiro’s article “‘This Is Why We Fight’: Defining the Values of the Digital Humanities” in order to think in the possibilities of applying the set of values that she proposes for the Digital Humanities to the practice of academic history.
 

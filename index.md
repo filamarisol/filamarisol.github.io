@@ -5,7 +5,7 @@
 layout: home
 ---
 
-## This is my site
+## Playing with the index
 
 --------
 

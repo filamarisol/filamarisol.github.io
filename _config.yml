@@ -15,7 +15,7 @@
 # in the templates via {{ site.myvariable }}.
 title: This is my site!
 email: mafila@umich.edu
-description: This is part of the Digital History course - Experimenting and learning 
+description: This is part of the Digital History course - Experimenting and learning
 baseurl: "/filamarisol.github.io" # the subpath of your site, e.g. /blog
 url: "localhost:4000" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: marisolfi
@@ -26,6 +26,7 @@ markdown: kramdown
 theme: minima
 gems:
   - jekyll-feed
+  - jemoji
 exclude:
   - Gemfile
   - Gemfile.lock

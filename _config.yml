@@ -16,8 +16,8 @@
 title: Marisol Fila
 email: mafila@umich.edu
 description: This is part of the Digital History course. Work in progress!!
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/filamarisol.github.io" # the subpath of your site, e.g. /blog
+url: "localhost:4000" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: marisolfi
 github_username:  filamarisol
 

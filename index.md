@@ -5,16 +5,24 @@
 layout: home
 ---
 
-## Home
+## Home 🏖️
 
 --------
 
-### Experimenting
+Hi everybody! This is part of the Digital History course. And a total work in progress, meaning that it will be *constantly changing* as long as I'm testing and **experimenting** with this endless digital world.
+
+Navigate through the site 🏄:
+
+[698-Portfolio](/698-Portfolio/)
+
+[About](/about/)
+
+[CV](/cv/)
+
+---
 
 
-Making it **bold**. What about *italics*?
-
---------
+**Yes**. I love emojis and **yes**, I miss summer a lot!!
 
 
 :sparkles: :sparkles: :sparkles: :rocket:

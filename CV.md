@@ -8,32 +8,21 @@ permalink: /cv/
 
 
 ### Personal Information
-
 ---
 
 <!-- -->
 
 -   **Name:** Marisol Andrea Fila
 
--   **National ID:** 32.151.437
-
--   **Age:** 30-year-old
-
--   **Date of birth:** 02/11/1986
-
 -   **Place of birth:** Ciudad Autónoma de Buenos Aires, Buenos Aires,  Argentina
 
--   **Address:** 2032 Pauline Blvd Apt 1A, Ann Arbor, Michigan, 48103
-
--   **Mobile Number:** 734 686 0040
-
--   **Email:** <mafila@umich.edu> - <filamarisol@gmail.com>
+-   **Email:** <mafila@umich.edu> -
 
 <!-- -->
 
 
-### Education
 
+### Education
 ---
 
 **1995-2001** **Professor of English – (*Complete*)**
@@ -65,7 +54,6 @@ University of Michigan
 
 
 ### Extracurricular courses and activities
-
 ---
 
 **Languages** **Spanish:** Native Language
@@ -112,7 +100,6 @@ Levels 1 and 2 complete
 
 
 ### Systems and Applications
-
 ---
 
 MS Office Package:
@@ -135,7 +122,6 @@ NLTK – Python : Beginner level
 
 
 ### Theater - Drama
-
 ---
 
 **Drama and character building course**
@@ -172,7 +158,6 @@ Sathya Yoga Institute – Buenos Aires – Arg
 
 
 ### Academic and professional background
-
 ---
 
 **July 2005 – January 2013* Teletech Argentina S.A.**
@@ -243,7 +228,6 @@ VI Encontro de Professores de Literaturas Africanas/ II AFROLIC “Dizer Africas
 
 
 ### Honors / Awards
-
 ---
 
 **November 2015 University of Michigan Library. Student Engagement Program-Student Mini Grant.**
@@ -254,15 +238,3 @@ VI Encontro de Professores de Literaturas Africanas/ II AFROLIC “Dizer Africas
 Alberto.**
 
 *Distant reading and “racial stories”. Using digital humanities tools to process narratives about Argentina’s “Negro Raul”*
-
-
-
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
-
-You can find the source code for the Jekyll new theme at:
-{% include icon-github.html username="jekyll" %} /
-[minima](https://github.com/jekyll/minima)
-
-You can find the source code for Jekyll at
-{% include icon-github.html username="jekyll" %} /
-[jekyll](https://github.com/jekyll/jekyll)

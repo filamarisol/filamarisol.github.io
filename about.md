@@ -3,13 +3,13 @@ layout: page
 title: About
 permalink: /about/
 ---
+<img src="/images/image1.png">
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
 
-You can find the source code for the Jekyll new theme at:
-{% include icon-github.html username="jekyll" %} /
-[minima](https://github.com/jekyll/minima)
+This is men when *I go virtual*.
 
-You can find the source code for Jekyll at
-{% include icon-github.html username="jekyll" %} /
-[jekyll](https://github.com/jekyll/jekyll)
+And here is something more about me in terms of academic interests:
+
+I’m a second year PhD student in the Romance Languages and Literatures Spanish department, at the University of Michigan. I was trained as an Historian in the University of Buenos Aires (Argentina), where I pursued my undergraduate studies.  My research interests include African migrants’ contemporary literature, cinema and alternative artistic expressions through digital platforms, with special emphasis on Lusophone African diaspora in Portugal and Brazil. More specifically, my work examines the reconstruction of immigrants’ individual and collective identities in the new country and their representations across different cultural productions.
+
+**There's more coming soon...** 🎈

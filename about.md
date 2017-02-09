@@ -3,7 +3,7 @@ layout: page
 title: About
 permalink: /about/
 ---
-<img src="/filamarisol.github.io/images/image1.png">
+<img src="/images/image1.png">
 
 
 This is me when *I go virtual*.

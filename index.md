@@ -13,11 +13,11 @@ Hi everybody! This is part of the Digital History course. And a total work in pr
 
 Navigate through the site 🏄:
 
-[698-Portfolio](/filamarisol.github.io/698-Portfolio/)
+[698-Portfolio](/698-Portfolio/)
 
-[About](/filamarisol.github.io/about/)
+[About](/about/)
 
-[CV](/filamarisol.github.io/cv/)
+[CV](/cv/)
 
 ---
 

@@ -6,7 +6,7 @@ permalink: /about/
 <img src="/filamarisol.github.io/images/image1.png">
 
 
-This is men when *I go virtual*.
+This is me when *I go virtual*.
 
 And here is something more about me in terms of academic interests:
 

@@ -16,14 +16,18 @@ Hi all! I'll be posting here weekly responses from the readings we are doing for
 
 <a href="/blogposts/Spiro-Post.html">On Lisa Spiro’s This Is Why We Fight: Defining the Values of the Digital Humanities</a>
 
-#### January 18th, 2017-01
+#### January 18th, 2017
 
 <a href="/blogposts/Digital-Identities-Post.html">When Academics Go Digital</a>
 
-#### January 25th, 2017-01
+#### January 25th, 2017
 
 <a href="/blogposts/The-Path-Post.html">The Path for Redemption</a>
 
-#### February 9th, 2017-01
+#### February 9th, 2017
 
 <a href="/blogposts/GIS-Post.html">Thinking about Time and Space</a>
+
+#### February 16th, 2017
+
+<a href="/blogposts/DH-GSI-Projects.html">More on mapping and Digital History GIS Projects</a>

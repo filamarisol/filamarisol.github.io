@@ -4,237 +4,133 @@ title: CV
 permalink: /cv/
 ---
 
-### Curriculum Vitae/Resume
 
+**CURRICULUM VITAE**
 
-### Personal Information
----
+**Marisol Andrea Fila**
 
-<!-- -->
+**Contact Information**
 
--   **Name:** Marisol Andrea Fila
+**Address:** 2032 Pauline Blvd Apt 1 A, Ann Arbor, Michigan, 48103
 
--   **Place of birth:** Ciudad Autónoma de Buenos Aires, Buenos Aires,  Argentina
+**Phone:** 734 686 0040
 
--   **Email:** <mafila@umich.edu> -
+**E-mail:** <mafila@umich.edu>
 
-<!-- -->
+**Twitter**: @marisolfi
 
+**Education**
 
+University of Michigan, Ann Arbor, Michigan.
 
-### Education
----
+PhD Pre-Candidate, Romance Languages and Literatures Spanish, expected August 2020.
 
-**1995-2001** **Professor of English – (*Complete*)**
+Universidad de Buenos Aires. Facultad de Filosofia y Letras, Buenos Aires, Argentina.
 
-Liceo Superior de Cultura Inglesa
+Professor of History with Honor Diploma, December 2013.
 
-Capital Federal – Buenos Aires - Argentina
+Escuela Normal Superior Antonio Mentruyt, Buenos Aires, Argentina.
 
-**2001-2003** **General Certificate of Secondary School oriented in **
+General Certificate of Secondary School oriented in Natural Sciences and Ecology, December 2003.
 
-**Natural Sciences and Ecology (*Complete*) **
+Liceo Superior de Cultura Inglesa, Buenos Aires, Argentina.
 
-General average: 8 (eight)
+Professor of English, December 2001.
 
-Escuela Normal Superior Antonio Mentruyt (ENSAM)
+**Additional Education**
 
-Lomas de Zamora – Buenos Aires - Argentina
+Universidade Federal do Vale do Sao Francisco, Pernambuco, Brazil.
 
-**2004-2013 Professor of History – (*Complete*)**
+“Projeto Narrativas e Visualidades: Cursos de Extensão a Distância”
 
-Facultad de Filosofía y Letras (FFyL)
+Seminar “A Voz Feminina na Literatura Africana de Língua Portuguesa”,March-June 2016.
 
-Universidad de Buenos Aires (UBA)
+Alliance Francaise Toulouse Midi-Pyrennes, Toulouse, France.
 
-**2015-Present** **Phd Student- Romance Languages and
-Literatures-Spanish**
+Intensive French Language Course, January-February 2014.
 
-University of Michigan
+**Language Skills**
 
+Spanish: native language
 
-### Extracurricular courses and activities
----
+English: fluent
 
-**Languages** **Spanish:** Native Language
+Portuguese: fluent
 
-**English:** Fluent
+French: upper intermediate Level
 
-**Portuguese**: Fluent
+Italian: beginner
 
-Laboratorio de Idiomas - Official Language Center
+**Relevant Experience**
 
-Facultad de Filosofía y Letras (FFyL) – Universidad de Buenos Aires
-(UBA) –
+**Teaching**
 
-Levels 1 to 6 complete
+University of Michigan, Romance Languages and Literatures Department.Graduate Student Instructor. Designing a syllabus and teaching a new Portuguese course. Portuguese 283. Portuguese for the Professions. Winter 2017.
 
-**French:** Upper Intermediate level.
+University of Michigan, Romance Languages and Literatures Department.Graduate Student Instructor. Taught elementary language course. Spanish 101. Fall 2016.
 
-Laboratorio de Idiomas – Official Language Center
+Colegio Nuestra Señora de la Misericordia (A- 142), Buenos Aires,Argentina.
 
-Facultad de Filosofía y Letras (FFyL) – Universidad de Buenos Aires
-(UBA) –
+Elementary School teacher for the subject English. High School Professor for the subject History. May 2013 to August 2015.
 
-Levels 1 to 4 complete
+Instituto privado Dr Albert Schweitzer (A-812), Buenos Aires, Argentina.
 
-Intensive course – January to February 2014 -
+High School Professor for the subjects: English, History, Civic Education and Argentinean Culture. April 2013 to August 2014.
 
-Alliance Française Toulouse Midi –Pyrenees - France
+Escuela de Educación Media N°1 D.E. N°16 “Rodolfo Walsh”, Buenos Aires, Argentina.
 
-**German:** Beginner level.
+High School teaching practices for the subject History. July 2012 to December 2012.
 
-Escuela municipal de Idiomas – School of Languages
+Lew Languages Institute, Buenos Aires, Argentina.
 
-Buenos Aires - Argentina
+Professor of English for private companies and individuals. On site and online courses. Beginner to Advanced level. July 2014 to August 2015.
 
-Levels 1 and 2 complete
+**Research**
 
-**Italian:** Beginner level.
+Universidad de Buenos Aires. Facultad de Filosofia y Letras, History Department, Buenos Aires, Argentina.
 
-Escuela municipal de Idiomas – School of Languages
+Seminar “Migración y Desarrollo. Del Estado de Bienestar a la Globalización Neoliberal (1945-2012)”. Teaching and Research Assistant for the seminar. Researching tasks included participation in internal seminars together with discussions of new bibliographical acquisitions. March 2012 to August 2015.
 
-Buenos Aires - Argentina
+Universidad de Buenos Aires. Facultad de Filosofia y Letras, History Department, Buenos Aires, Argentina.
 
-Levels 1 and 2 complete
+Seminar in Palestinian Studies “Edward Said”. Research and Teaching Assistant for the seminar. Researching tasks included participation in internal seminars as well as English to Spanish translations for academic texts. March 2012 to December 2014.
 
+**Administrative**
 
-### Systems and Applications
----
+Teletech Argentina S.A. Buenos Aires, Argentina.
 
-MS Office Package:
+Sales Representative – Bellsouth – Sprint Nextel – HSBC. 2005 to 2008
 
-MS Excel – MS Word – Ms Power Point – Ms Outlook
+Real Time Specialist – WFM Team – Western Union. 2008 to 2009
 
-MS Access – MS Visio: Advanced level
+Business Planning Specialist – WFM Team – Best Buy. 2009 to 2011
 
-Avaya CMS Supervisor: Advanced level
+Team Leader – Global Workforce Management –Brazil. 2011 to 2013
 
-eWFM (Worforce Management Software): Advanced Level
+**Fellowships and Awards**
 
-iEX (Workforce Management Software): High level
+Digital Humanities Summer Institute Tuition Scholarship. University of Victoria, Canada. June 2017.
 
-CISCO - Service Desk ticketing system
+Spring-Summer Research Grant for “Distant reading and “racial stories”. Using digital humanities tools to process narratives about Argentina’s “Negro Raul”” in partnership with Professor Paulina Alberto. Rackham Graduate School, University of Michigan. May-August 2016.
 
-ERS/OV Data Base- Oracle Employee data base
+Student Engagement Program-Student Mini Grant for “Transnational Solidarity for Peru: Quipu Project”. University of Michigan Library,University of Michigan, November 2015.
 
-NLTK – Python : Beginner level
+**Conference Papers and Talks**
 
+““*Je est un autre*”: On Pedro Costa’s Collaborative Act at Filming”. 21st Charles F. Fraker Conference “The Image Reframed: Visions of Instability”. University of Michigan. February 2017.
 
-### Theater - Drama
----
+“Close versus Distant? A Reflection on the use of Distant Reading for Historical Analysis in the Classroom.” Digital Pedagogies Lightning Talks and Workshop. Institute for the Humanities. University of
+Michigan. February 2017.
 
-**Drama and character building course**
+“Identidades neuróticas: os limites do lusotropicalismo no Portugal contemporâneo” – VI Encontro de Professores de Literaturas Africanas/ II
+AFROLIC “Dizer Africas: Vozes, Literatura, Mulher”. Universidade Federal Rural de Pernambuco, Recife, Brazil. December 2017
 
-Banfield Teatro Ensamble – Buenos Aires
+Participation in 2016 Chicago Colloquium on Digital Humanities & Computer Science “New Directions”. University of Illinois, Chicago.November 2016.
 
-Centro Cultural Ricardo Rojas – Buenos Aires
+“Migraciones contemporáneas e identidad: Miradas sobre Palestina”.National Congress of ALADAA (Latin American association of Asian and African studies). Centro Cultural de la Cooperacion, Buenos Aires, Argentina. August 2014.
 
-**Assistant Director course**
+“Etíopes Judíos en Israel: entre el asentamiento y la discriminación.(1984-2012)”. XIV Internacional Congress of ALADAA (Latin American association of Asian and African studies). Universidad Nacional de La Plata, Buenos Aires, Argentina.
 
-Banfield Teatro Ensamble – Buenos Aires
+**Professional and Institutional Service**
 
-**Storytellers´club**
-
-Escuela Normal Superior Antonio Mentruyt
-
-**Yoga for Children Workshop**
-
-Professor Ana Rakela – Private Institute - Arg
-
-**Breathing and relaxing techniques workshop**
-
-Professor Ana Rakela – Private Institute - Arg
-
-**Iyengar method – Regular classes**
-
-Sathya Yoga Institute – Buenos Aires – Arg
-
-**Ashtanga method – Regular clases**
-
-Sathya Yoga Institute – Buenos Aires – Arg
-
- {#section .Encabezadodetabladecontenido}
-
-
-### Academic and professional background
----
-
-**July 2005 – January 2013* Teletech Argentina S.A.**
-
-2005-2008 Sales Representative – Bellsouth – Sprint Nextel – HSBC
-
-2008-2009 Real Time Specialist – WFM Team – Western Union
-
-2009-2011 Business Planning Specialist – WFM Team – Best Buy
-
-2011-2013 Team Leader – Global Workforce Management –Brazil
-
-**July 2012- December 2012* Escuela de Educación Media N°1 D.E. N°16 “Rodolfo Walsh”**
-
-High School teaching practices for the subject **History**
-
-**April 2013 – August 2014* Instituto privado Dr Albert Schweitzer (A-812)**
-
-High School Professor for the subjects: **English, History, Civic Education and Argentinean Culture.**
-
-**May 2013-August 2015* Colegio Nuestra Señora de la Misericordia (A-142)**
-
-Elementary School teacher for the subject: **English**
-
-High School Professor for the subject: **History**
-
-**2012-2014* Seminar in Palestinian Studies “Edward Said”**
-
-Department of History - Facultad de Filosofía y Letras (FFyL) – University of Buenos Aires (UBA)
-
-I develop myself as a teaching and research assistant for the seminar.Researching tasks include participation in internal seminars as well as English - Spanish translations for academic texts.
-
-**2012-2014* Seminar “Migración y** **Desarrollo. Del Estado de Bienestar a la Globalización Neoliberal (1945-2012)”**
-
-Department of History - Facultad de Filosofía y Letras (FFyL) – University of Buenos Aires (UBA)
-
-I develop myself as a teaching and research assistant for the seminar.Researching tasks include participation in internal seminars together with discussions of new bibliographical acquisitions.
-
-**July 2014 –August 2015* – Lew Languages Institute**
-
-Professor of English for private companies and individuals – On site and online courses – Beginner to Advanced level
-
-**August 2013 Paper Reading “Etíopes Judíos en Israel: entre el asentamiento y la discriminación. (1984-2012)” – “Ethiopian Jews in
-Israel : between the settlement and discrimination. (1984.2012)”**
-
- XIV Internacional Congress of ALADAA (Latin American association of Asian
-and African studies)
-
-**August 2014 Paper Reading “Migraciones contemporáneas e identidad: Miradas sobre Palestina” – “Contemporary migrations and identities:
-Perspectives on Palestine”**
-
-National Congress of ALADAA (Latin American association of Asian and African studies)
-
-**March – June 2016 Seminar “A Voz Feminina na Literatura Africana de Língua Portuguesa”**
-
-Projeto Narrativas e Visualidades – Cursos de
-Extensão a Distância – Universidade Federal do Vale do Sao Francisco – Brazil
-
-**November 2016 Participation in 2016 Chicago Colloquium on Digital
-Humanities & Computer Science “New Directions”**
-
-University of Illinois – Chicago
-
-**December 2016 Paper Reading “Identidades neuróticas: os limites do
-lusotropicalismo no Portugal contemporâneo”**
-
-VI Encontro de Professores de Literaturas Africanas/ II AFROLIC “Dizer Africas: Vozes, Literatura, Mulher” – Universidade Federal Rural de Pernambuco – Recife – Brazil
-
-
-### Honors / Awards
----
-
-**November 2015 University of Michigan Library. Student Engagement Program-Student Mini Grant.**
-
-*Transnational Solidarity for Peru – “Quipu Project”*
-
-**May-August 2016 Rackham Graduate School – University of Michigan. Spring/ Summer Research Grant in partnership with Professor Paulina
-Alberto.**
-
-*Distant reading and “racial stories”. Using digital humanities tools to process narratives about Argentina’s “Negro Raul”*
+Co-organizer, 21st Charles F. Fraker Conference “The Image Reframed:Visions of Instability”. University of Michigan. February 2017.

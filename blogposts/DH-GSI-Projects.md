@@ -2,7 +2,7 @@
 
 ---
 
-## More on mapping and Digital History GIS Projects.
+## More on Mapping and Digital History GIS Projects
 
 After reading, Gergely Baics [Mapping as Process: Food Access in Nineteenth-Century New York](https://globalurbanhistory.com/2016/05/17/mapping-as-process-food-access-in-nineteenth-century-new-york/), I would like to mention some more interesting points about using GIS for spatial history:
 

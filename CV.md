@@ -5,7 +5,7 @@ permalink: /cv/
 ---
 As my navigation bar is under construction, and I don't want you to get trapped in this page, I'm temporarily including the links to the different sections of the site below...with very little style, I know!! 🙈🙉🙊
 
-[Home](/index/)
+<a href="/index.html"> Home</a>
 
 [698-Portfolio](/698-Portfolio/)
 

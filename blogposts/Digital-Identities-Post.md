@@ -1,8 +1,7 @@
 ---
-
+layout: page
+title: When Academics Go Digital
 ---
-
-## When Academics Go Digital
 
 Last week we discussed if the values that the Digital Humanities community intends to embrace should be - or already are - applicable to academic history. Going through Spiro’s proposed set of values for the DH [“This Is Why We Fight”: Defining the Values of the Digital Humanities](http://dhdebates.gc.cuny.edu/debates/text/13) - [On Lisa Spiro’s “This Is Why We Fight”: Defining the Values of the Digital Humanities.](https://filamarisol.github.io/Spiro_post), we found that many of them, specially those that focus on collaboration, interdisciplinarity,collegiablity and openness, to name just a few, are not reflecting current scholar’s academic practice in the humanities. We mentioned institutional limitations, but also a still persistent idea of the scholar’s authority and professional identity that operates in an opposite way than these values do. This week, the aim is precisely to discuss about **professional identity in the realms of the digital age**. Should scholars cultivate a digital identity through different social media, create their own websites and/or blogs? If so, to what extend? Moreover, do digital identities make possible the development of a public persona that may or may not be aligned with an off-line identity? The articles I’ll be commenting on this week reflect on some of these questions, and propose different answers to them.  
 

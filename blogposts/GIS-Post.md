@@ -1,8 +1,7 @@
 ---
-
+layout: page
+title: Thinking about Time and Space
 ---
-
-## Thinking about Time and Space
 
 In ["What is Spatial History?"](http://web.stanford.edu/group/spatialhistory/cgi-bin/site/pub.php?id=29), Robert White refers to the Spatial History Project at Stanford as part of a larger spatial turn in history. As David Bodenhamer explains, the spatial turn in history occurred in the 1970s and 1980s, and can be described as a revival of interest in space as a way to understand society and culture. Bodenhamber, quoting Edward Soja writes:
 > "Rather than being a seem only as a physical backdrop, container, or stage to human life, space is more insightfully viewed as a complex social formation, part of a dynamic process."

@@ -14,7 +14,7 @@ Hi all! I'll be posting here weekly responses from the readings we are doing for
 
 #### January 11th, 2017
 
-<a href="/blogposts/Spiro-Post.html" target="_blank"> On Lisa Spiro’s This Is Why We Fight: Defining the Values of the Digital Humanities</a>
+<a href="/blogposts/Spiro-Post1.html" target="_blank"> On Lisa Spiro’s This Is Why We Fight: Defining the Values of the Digital Humanities</a>
 
 #### January 18th, 2017
 

@@ -1,9 +1,7 @@
 ---
-
+layout: page
+title: The Path for Redemption
 ---
-
-## The Path for Redemption
-
 
 Reading through Lupton’s book has been both a learning and a condemn. It opened up an absolutely new world for me and this world has nothing to do with the one I used to habit in terms of typography and text design. It was impossible for me not to read every section of the book *Thinking with Type* and not to think about all the *type crimes* I’ve been systematically committing in my presentations, papers, flyers, blog posts, and every single writing I’ve done so far. Starting with what typeface to choose, how to combine caps, small caps, lowercases to the alignment of the text, the disposition of it in space and the different meanings it may carry…ended possibilities to be used with proper knowledge and wisdom. As Lupton says, the interesting thing about her book is that the emphasis on typography is an emphasis
 >“on with - typography is a tool for doing things with: shaping content, >giving language a physical body, enabling the social flow of messages” (9).

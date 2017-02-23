@@ -9,9 +9,9 @@ layout: home
 
 --------
 
-Hi everybody! This is part of the Digital History course. And a total work in progress, meaning that it will be *constantly changing* as long as I'm testing and **experimenting** with this endless digital world.
+Hi everybody! This is part of the Winter 2017 Digital History course at the University of Michigan. Take it as a total work in progress: it will be *constantly changing* - and *looking better*, I hope! - as long as I'm testing and **experimenting** with this endless digital world.
 
-Navigate through the site 🏄:
+Now, I know that there is a nav bar on top but you can also navigate through the site by clicking on the links below 🏄:
 
 [698-Portfolio](/698-Portfolio/)
 
@@ -19,10 +19,14 @@ Navigate through the site 🏄:
 
 [CV](/cv/)
 
+[Links](/links/)
+
 ---
 
 
-**Yes**. I love emojis and **yes**, I miss summer a lot!!
+**Yes**. I love emojis and **yes** --- I miss summer a lot!!
 
 
 :sparkles: :sparkles: :sparkles: :rocket:
+
+<a href="mailto:mafila@umich.edu">Email Me!</a>

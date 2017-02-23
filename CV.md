@@ -5,13 +5,10 @@ permalink: /cv/
 ---
 
 
-**CURRICULUM VITAE**
 
-**Marisol Andrea Fila**
+## Marisol Andrea Fila
 
-**Contact Information**
-
-**Address:** 2032 Pauline Blvd Apt 1 A, Ann Arbor, Michigan, 48103
+### Contact Information
 
 **Phone:** 734 686 0040
 
@@ -19,7 +16,7 @@ permalink: /cv/
 
 **Twitter**: @marisolfi
 
-**Education**
+### Education
 
 University of Michigan, Ann Arbor, Michigan.
 
@@ -37,7 +34,7 @@ Liceo Superior de Cultura Inglesa, Buenos Aires, Argentina.
 
 Professor of English, December 2001.
 
-**Additional Education**
+### Additional Education
 
 Universidade Federal do Vale do Sao Francisco, Pernambuco, Brazil.
 
@@ -49,7 +46,7 @@ Alliance Francaise Toulouse Midi-Pyrennes, Toulouse, France.
 
 Intensive French Language Course, January-February 2014.
 
-**Language Skills**
+### Language Skills
 
 Spanish: native language
 
@@ -61,7 +58,7 @@ French: upper intermediate Level
 
 Italian: beginner
 
-**Relevant Experience**
+### Relevant Experience
 
 **Teaching**
 
@@ -107,7 +104,7 @@ Business Planning Specialist – WFM Team – Best Buy. 2009 to 2011
 
 Team Leader – Global Workforce Management –Brazil. 2011 to 2013
 
-**Fellowships and Awards**
+### Fellowships and Awards
 
 Digital Humanities Summer Institute Tuition Scholarship. University of Victoria, Canada. June 2017.
 
@@ -115,7 +112,7 @@ Spring-Summer Research Grant for “Distant reading and “racial stories”. Us
 
 Student Engagement Program-Student Mini Grant for “Transnational Solidarity for Peru: Quipu Project”. University of Michigan Library,University of Michigan, November 2015.
 
-**Conference Papers and Talks**
+### Conference Papers and Talks
 
 ““*Je est un autre*”: On Pedro Costa’s Collaborative Act at Filming”. 21st Charles F. Fraker Conference “The Image Reframed: Visions of Instability”. University of Michigan. February 2017.
 
@@ -131,6 +128,12 @@ Participation in 2016 Chicago Colloquium on Digital Humanities & Computer Scienc
 
 “Etíopes Judíos en Israel: entre el asentamiento y la discriminación.(1984-2012)”. XIV Internacional Congress of ALADAA (Latin American association of Asian and African studies). Universidad Nacional de La Plata, Buenos Aires, Argentina.
 
-**Professional and Institutional Service**
+### Professional and Institutional Service
 
 Co-organizer, 21st Charles F. Fraker Conference “The Image Reframed:Visions of Instability”. University of Michigan. February 2017.
+
+<body id="top">
+  ...
+  <a href="#top">Back to top</a>
+  ...
+</body>

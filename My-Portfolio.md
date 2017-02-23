@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Links
-permalink: /links/
+title: My Portfolio
+permalink: /My-Portfolio/
 ---
 
 ---
@@ -15,12 +15,12 @@ As my navigation bar is under construction, and I don't want you to get trapped 
 
 [CV](/cv/)
 
-[My Portfolio](/My-Portfolio)
+[Links](/links/)
 
-## Links
+## My Portfolio
 
 
-Below is a list of assembled links to websites with relevant historical materials or more contemporary cultural productions related to my research interests. I will try to also include brief descriptions of what you might find there.
+Here I want to include some of my research, in the form of posts, sources, and other miscellaneous material that I find of interest. I hope you can find them useful as well...
 
 ...Under construction!...⌛🔦
 

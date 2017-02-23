@@ -16,6 +16,8 @@ As my navigation bar is under construction, and I don't want you to get trapped 
 
 [Links](/links/)
 
+[My Portfolio](/My-Portfolio)
+
 ## Blogposts
 
 

@@ -23,7 +23,7 @@ github_username:  filamarisol
 
 # Build settings
 markdown: kramdown
-theme: jekyll-theme-cayman
+theme: 'jekyll-theme-cayman'
 gems:
   - jekyll-feed
   - jemoji

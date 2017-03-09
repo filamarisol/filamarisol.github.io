@@ -15,17 +15,17 @@ My initial experiments with Voyant toward the end of the summer began to reveal 
 
 #### Some initial arguments and hypothesis:
 
-1. “Afterlives”: Script – Plagiarism and circular references – demise of the once substantial Afro Argentinean population– Raul as exception – no lineage, no history, no larger community.
+1. **“Afterlives”: Script – Plagiarism and circular references – demise of the once substantial Afro Argentinean population– Raul as exception – no lineage, no history, no larger community.**
 
-2. Raul also served as an object lesson for the emerging Argentine middle class. Lanteri’s cartoons – Middle class morality.
+2. **Raul also served as an object lesson for the emerging Argentine middle class. Lanteri’s cartoons – Middle class morality.**
 
 #### Voyant outcomes:
 
-1. Analysis of “Post 1930” section of the corpus (texts written after 1930s).  Word recurrence: “Raul/ Raúl”: 702 times – “Grigera/Grijera/Grigeras/Grijeras”: 151 times
+1. **Analysis of “Post 1930” section of the corpus (texts written after 1930s).  Word recurrence: “Raul/ Raúl”: 702 times – “Grigera/Grijera/Grigeras/Grijeras”: 151 times**
 
 <img src="/images/Voyant1.jpg">
 
-2. Analysis of  “El Hogar – Aventuras del Negro Raul” section of the corpus (Composed by cartoons that appeared during the year of 1916 in the magazine “El Hogar”). Word recurrence:  ”Moraleja” (Moral): 37 times – “Piensa” (Thinks): 11 times – ”Tilingo” (Silly and Superficial): 6 times – “Mundo” (World): 10 times.
+2. **Analysis of  “El Hogar – Aventuras del Negro Raul” section of the corpus (Composed by cartoons that appeared during the year of 1916 in the magazine “El Hogar”). Word recurrence:  ”Moraleja” (Moral): 37 times – “Piensa” (Thinks): 11 times – ”Tilingo” (Silly and Superficial): 6 times – “Mundo” (World): 10 times.**
 
 <img src="/images/Voyant2.jpg">
 

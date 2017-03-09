@@ -44,6 +44,11 @@ Hi all! I'll be posting here weekly responses from the readings we are doing for
 
 <a href="/blogposts/DH-GSI-Projects.html" target="_blank">More on mapping and Digital History GIS Projects</a>
 
+#### March 09, 2017
+
+<a href="/blogposts/Text-Mining.html" target="_blank">Getting to Know Distant Reading Techniques</a>
+
+
 <body id="top">
   ...
   <a href="#top">Back to top</a>

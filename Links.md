@@ -59,11 +59,15 @@ GELEDES is also a Portuguese website that revolves around the defense or black w
 
 The site is in Portuguese and it is a blog dedicated to the promotion of african music. It is connected to a radio station and the recordings of some of the programs are uploaded.
 
-#### Digital Pedagogy
+#### Pedagogy and Digital Pedagogy
 
 <a href="http://www.digitalpedagogylab.com/" target="_blank"> Digital Pedagogy Lab</a>
 
 As I became to get involved with Digital Pedagogy, I stepped into this website. The project was inspired by the pedagogies of [Paulo Freire](http://www.freire.org/paulo-freire/) and [Bell Hooks](http://www.bellhooksinstitute.com/). The site features [Hybrid Pedagogy](http://www.digitalpedagogylab.com/hybridped/) a journal about learning, teaching and technology.
+
+<a href="http://www.digitalpedagogylab.com/" target="_blank"> ELM</a>
+
+ELM (European Lifelong Learning Magazine) is a free online magazine on lifelong learning and adult education. I found there very interesting articles that connects with issues or racial discrimination in Europe.
 
 #### Resources
 

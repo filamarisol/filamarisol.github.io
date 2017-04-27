@@ -89,7 +89,7 @@ main {
 
   .entry-content {
 
-    @include breakpoint($medium) {
+    @include breakpoint($small) {
       -ms-flex: 1;
       flex: 1;
     }
@@ -99,7 +99,7 @@ main {
     order: -1;
     -ms-flex-order: -1;
 
-    @include breakpoint($medium) {
+    @include breakpoint($small) {
       order: initial;
       -ms-flex-order: initial;
     }

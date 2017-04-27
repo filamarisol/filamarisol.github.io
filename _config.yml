@@ -25,7 +25,7 @@ author:
   picture: "/images/Home-Picture.png/"
 twitter_username: marisolfi
 github_username: filamarisol.github.io
-logo: https://filamarisol.github.io/images/Home-Picture.png/
+logo: "https://filamarisol.github.io/images/Home-Picture.png/"
 
 # Build settings
 markdown: kramdown

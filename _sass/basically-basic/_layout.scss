@@ -28,8 +28,8 @@ main {
     padding: 0 0.5rem;
 
     @include breakpoint($small) {
-      padding-right: 1rem;
-      padding-left: 1rem;
+      padding-right: 0rem;
+      padding-left: 0rem;
     }
 
     @include breakpoint($medium) {
@@ -69,9 +69,7 @@ main {
 
   .entry-content {
 
-    @include breakpoint($large) {
-      width: span(14 of 16);
-    }
+    @include breakpoint($small)
   }
 }
 
@@ -123,7 +121,7 @@ main {
 
     .entry-header {
 
-      @include breakpoint($medium) {
+      @include breakpoint($small) {
         @include span(5 of 16);
         @include suffix(1 of 16);
 
@@ -135,7 +133,7 @@ main {
     }
 
     .entry-content {
-      @include breakpoint($medium) {
+      @include breakpoint($small) {
         @include span(11 of 16 last);
       }
     }

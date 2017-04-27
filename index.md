@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Home 🏖️
+title: Home ️
 ---
 <img src="/images/Home-Picture.png">
 

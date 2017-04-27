@@ -53,3 +53,9 @@ The site offers you an index page with all the info that you can find in it, whi
 * [Digital Harlem](http://digitalharlem.org)
 
 I liked that it gives you lot of instructions so you can’t get lost when doing different searches. The site is also easy to use and the design is connected with its functionality. It also has a link to a blog, with extra info and tools. Extra links and publications can be found the website. I think that it is a very complete website, very usable.  
+
+<body id="top">
+  ...
+  <a href="#top">Back to top</a>
+  ...
+</body>

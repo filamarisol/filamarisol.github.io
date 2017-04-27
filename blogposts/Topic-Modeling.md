@@ -46,3 +46,9 @@ The topic 13 includes words such as **Rau**, **No**, **Negro** [Black], **Morale
 #### Moving Forward
 
 Having done this initial experimentations gave me a great idea of **what topic modeling could do in a larger set of texts**, and I think that by that time, the outcomes will be more original and insightful than the ones that I had (they were super accurate but it is true that it was a work that I could do analogically as well). I will try some new topic modeling with beginning of twentieth century Argentinian’s literature to begin a comparison with what was written about Raul.
+
+<body id="top">
+  ...
+  <a href="#top">Back to top</a>
+  ...
+</body>

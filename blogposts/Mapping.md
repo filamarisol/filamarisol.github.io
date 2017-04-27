@@ -58,3 +58,9 @@ As we see, the country was populated throughout the twentieth century and althou
 #### What next?
 
 I found QGIS very valuable in **connecting different data to a map** (that is data too!) and to be able to visualize it. It was my initial experiment and I’m sure it could have gone better in many ways but it served me to get familiar with the system and to explore the many possibilities that it has (which are really really a lot). I’ll keep playing around with it, now thinking in mapping the places that these articles mention, in which Raul was seen. **I would like to connect his mobility to the one that was thought for the different groups by the beginning of twentieth century Argentina**. Raul accompanied the sons of the elite in their nocturnal activities, and that would explain his access to many places that were implicitly forbidden for most of the Afro Argentinian population. I look forward to finding new insights by having these places mapped.
+
+<body id="top">
+  ...
+  <a href="#top">Back to top</a>
+  ...
+</body>

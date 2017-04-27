@@ -22,3 +22,9 @@ Should historians then, discredit the use of these tools just because they are n
 > visualization and spatial history are not about producing illustrations or maps to communicate things that you have discovered by other means. **It is a means of doing research**
 
 I agree with this last quote. I think that including these technologies in our research can seek for generating new questions and historical relations that might otherwise go unnoticed, pushing us to keep rethinking and revisiting existing narratives about the past.
+
+<body id="top">
+  ...
+  <a href="#top">Back to top</a>
+  ...
+</body>

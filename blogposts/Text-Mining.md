@@ -40,3 +40,9 @@ For instance, some of the limitations I found were in terms of language and word
 ### What now?
 
 In spite of the limitations listed above, **I consider distant reading techniques as valuable methods for discovering new connections between texts, connections that would be invisible to a close reading approach, and to reinforce our existing hypothesis and arguments**. Said that, I feel that is now crucial to start experimenting with some more advanced techniques for text mining, tools that will allow me to go further in these analysis and to open up new questions and connections that we may not be thinking now.
+
+<body id="top">
+  ...
+  <a href="#top">Back to top</a>
+  ...
+</body>

@@ -62,3 +62,9 @@ Although it repeats some of the information that we already read in the **home**
 #### Overall considerations
 
 Overall, I found [Mapping Texts](http://mappingtexts.org/index.html) project a well built one, that is clear in its objectives and that is able to show their experimentation in a clear and interactive way. I would have liked to see some updates after 2011, or the re-application of this codes and experiments to different sets of newspapers collections, the same of having some more articles that discuss either this or related projects. The design of the site is simple, most of the pages have the interface of a blog page. I would have removed the duplicated links and navigation bars from the different pages, since they confused the viewer in where to click to move around the website and access the different pages and sections. The most outstanding aspect is the **sharing of the codes** and the **data** that they offer. It encourages you to take a deeper look at their sources, the same as how the create the codes for the different visualizations.
+
+<body id="top">
+  ...
+  <a href="#top">Back to top</a>
+  ...
+</body>

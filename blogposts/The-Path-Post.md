@@ -17,3 +17,9 @@ Moreover, another aspect highlighted by the author is that from what typeface to
 Another aspect of the text to be mindful of are **paragraphs**. And there again, when reading to all the *do not* practices for having a paragraph properly display on the web, I felt ashamed of all the overused I’ve been doing so far.
 
 All right. I’ve been committing so many **type crimes**. But, should I have known how to do it right? Or under a better design? Maybe I could have looked for myself some guides for graphic design, I should have talked to some friends for best practices and tips, I could have also be more mindful between the relation of the content and the form. I definitely could and should have done all of that. And we, as students, graduate or undergraduate, could receive some training on that. We’re in a way pushed to work in multiple environments, and the digital is becoming a key one. Because of that, **design should be part of our training, as it would enrich our scholarship**. Again, for me the form complements and enhance the content. **Putting a deliberate effort in design, in thinking both what and how we’re saying things, is a practice that can only add value to our work**. Although not explicitly, our readers will appreciate it. It may take time, learning, practice and working with many unknown concepts and tools, but I think that it’s worth it.
+
+<body id="top">
+  ...
+  <a href="#top">Back to top</a>
+  ...
+</body>

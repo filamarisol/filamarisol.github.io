@@ -39,3 +39,9 @@ I find that statement important, and totally true. **Blogs can also operate as a
 Finally, I would like to briefly comment on the article of Kim Barbour and David Marshall, [The Academic Online: Constructing Persona Through the World Wide Web](http://journals.uic.edu/ojs/index.php/fm/article/view/3969/3292). As the authors say,**”persona creation is a much more conscious process in online settings as opposed to off-line”**. There is an intentional strategy in the self-presentation in online settings,”because communicators must consciously *re* -present themselves online”. The authors analyze different types of constructed academic personas, and some of the characteristics that each of them assume. Although they trend to differentiate these constructions, I believe that many of these identities can also overlap and that you can in fact construct different digital identities depending on who you’re interacting to. For instance, the fact of myself interacting with my students through a specific platform designed for a particular course, doesn’t limit me to also create a different self, let’s say a networked one to connect with a different audience. In any case, the important point here is **the relation between a professional off-line and online identity**. As the authors say,
 
 > “The academic persona, like other online persona, also has to connect authentically to an individual’s professional work. It is not hype or spin, but more an elaboration of what one is conceptualizing or thinking about, developing, and achieved. In the micro–publics of academia, the online persona will resemble other peer reviewed systems of knowledge production and be primarily judged on its merits.“
+
+<body id="top">
+  ...
+  <a href="#top">Back to top</a>
+  ...
+</body>

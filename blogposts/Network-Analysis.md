@@ -44,3 +44,9 @@ In sum, having done this initial experiments with a small amount of data didn’
 #### What next?
 
 After this initial approach to network analysis by using Palladio and a sample of my corpus to get started with, I will now move forward in adding more data to my analysis, the same as to try them in [Gephi](https://gephi.org/). Moreover, I have some parallel questions that I would like to tackle, now in terms of the connections between the authors and the people besides El Negro Raul that they were writing about. I’m specifically thinking in the sons of the Argentinian elite by the beginning of the twentieth century. I am interested who and where is mentioned by these authors, as it will give me a better understanding of the social and political context of these years. This will be a second phase in the network analysis as I will need first to extract these names from the texts and then to prepare the data to run the visualizations. I’m confident that using larger sets of data will bring new ideas to my current speculations and hypothesis.
+
+<body id="top">
+  ...
+  <a href="#top">Back to top</a>
+  ...
+</body>

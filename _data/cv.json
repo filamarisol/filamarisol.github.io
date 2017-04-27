@@ -1,0 +1,256 @@
+{
+  "basics": {
+    "name": "Curriculum Vitae",
+    "label": "Marisol Fila. PhD Student, Romance Languages and Literatures, University of Michigan",
+    "picture": "",
+    "email": "mafila@umich.edu",
+    "phone": "(734) 686-0040",
+    "website": "https://filamarisol.github.io",
+    "summary": "Marisol is a second year PhD student in the Romance Languages and Literatures Spanish department, at the University of Michigan. She was trained as an Historian in the University of Buenos Aires, Argentina, where she pursued my undergraduate studies. Marisol’s research interests include African migrants’ contemporary literature, cinema and alternative artistic expressions through digital platforms, with special emphasis on Lusophone African diaspora in Portugal and Brazil. More specifically, her work examines the reconstruction of immigrants’ individual and collective identities in the new country and their representations across different cultural productions.",
+    "location": {
+      "address": "Modern Languages Building. 812 East Washington Street.",
+      "postalCode": "48109-1275",
+      "city": "Ann Arbor",
+      "countryCode": "US",
+      "region": "Michigan"
+    },
+    "profiles": [
+      {
+        "network": "Twitter",
+        "username": "@marisolfi",
+        "url": "https://twitter.com/marisolfi"
+      }
+    ]
+  },
+  "work": [
+    {
+      "company": "University of Michigan, RLL Department.",
+      "position": "Graduate Student Instructor",
+      "website": "https://lsa.umich.edu/rll",
+      "startDate": "Winter 2017",
+      "summary": "Designing a syllabus and teaching a new Portuguese course. Portuguese 283. Portuguese for the Professions.",
+      "highlights": []
+    },
+    {
+      "company": " University of Michigan, RLL Department.",
+      "position": "Graduate Student Instructor",
+      "website": "https://lsa.umich.edu/rll",
+      "startDate": "Fall 2016",
+      "summary": "Taught elementary language course. Spanish 101.",
+      "highlights": []
+    },
+    {
+      "company": "Colegio Nuestra Señora de la Misericordia",
+      "position": "Professor",
+      "website": "http://www.colegionuestrasradelamisericordia.com/",
+      "startDate": "May 2013",
+      "endDate": "August 2015",
+      "summary": "Elementary School teacher for the subject English. High School Professor for the subject History.",
+      "highlights": []
+    },
+    {
+      "company": "Instituto privado Dr Albert Schweitzer",
+      "position": "Professor",
+      "website": "http://www.eidas.edu.ar/",
+      "startDate": "April 2013",
+      "endDate": "August 2014",
+      "summary": "High School Professor for the subjects: English, History, Civic Education and Argentinean Culture.",
+      "highlights": []
+    },
+    {
+      "company": "Escuela de Educación Media N°1 D.E. N°16 “Rodolfo Walsh”",
+      "position": "Professor",
+      "website": "http://escuelawalsh.blogspot.com/",
+      "startDate": "July 2012",
+      "endDate": "December 2012",
+      "summary": "High School teaching practices for the subject History.",
+      "highlights": []
+    },
+    {
+      "company": "Lew Languages Institute",
+      "position": "Professor of English",
+      "website": "http://www.lewidiomas.com.ar/",
+      "startDate": "July 2014",
+      "endDate": "August 2015",
+      "summary": "Professor of English for private companies and individuals. On site and online courses. Beginner to Advanced level.",
+      "highlights": []
+    },
+    {
+      "company": "Teletech Argentina S.A.",
+      "position": "Team Leader",
+      "website": "https://www.globant.com/",
+      "startDate": "July 2005",
+      "endDate": "January 2013",
+      "summary": "Sales Representative – Bellsouth – Sprint Nextel – HSBC. 2005 to 2008. Real Time Specialist – WFM Team – Western Union. 2008 to 2009. Business Planning Specialist – WFM Team – Best Buy. 2009 to 2011. Team Leader – Global Workforce Management –Brazil. 2011 to 2013",
+      "highlights": []
+    },
+    {
+      "company": "Universidad de Buenos Aires",
+      "position": "Research Assistant",
+      "website": "http://www.filo.uba.ar/",
+      "startDate": "March 2012",
+      "endDate": "August 2015",
+      "summary": "Universidad de Buenos Aires. Facultad de Filosofia y Letras, History Department, Buenos Aires, Argentina. Seminar “Migración y Desarrollo. Del Estado de Bienestar a la Globalización Neoliberal (1945-2012)”. Teaching and Research Assistant for the seminar. Researching tasks included participation in internal seminars together with discussions of new bibliographical acquisitions. March 2012 to August 2015.",
+      "highlights": []
+    },
+    {
+      "company": "Universidad de Buenos Aires",
+      "position": "Research Assistant",
+      "website": "http://www.filo.uba.ar/",
+      "startDate": "March 2012",
+      "endDate": "December 2014",
+      "summary": "Universidad de Buenos Aires. Facultad de Filosofia y Letras, History Department, Buenos Aires, Argentina. Seminar in Palestinian Studies “Edward Said”. Research and Teaching Assistant for the seminar. Researching tasks included participation in internal seminars as well as English to Spanish translations for academic texts.",
+      "highlights": []
+    }
+  ],
+  "volunteer": [
+    {
+      "organization": "University of Michigan. RLL department",
+      "position": "Co-organizer, 21st Charles F. Fraker Conference",
+      "website": "https://lsa.umich.edu/rll",
+      "startDate": "February 2017",
+      "summary": "Co-organizer, 21st Charles F. Fraker Conference “The Image Reframed:Visions of Instability”. University of Michigan.",
+      "highlights": []
+    }
+  ],
+  "education": [
+    {
+      "institution": "University of Michigan",
+      "area": "Romance Languages and Literatures ",
+      "studyType": "PhD Pre-Candidate",
+      "startDate": "August 2015",
+      "endDate": "",
+    },
+    {
+      "institution": "Universidad de Buenos Aires",
+      "area": "Facultad de Filosofia y Letras. Historia",
+      "studyType": "Professor of History with Honor Diploma",
+      "startDate": "March 2004",
+      "endDate": "December 2013",
+    },
+    {
+      "institution": "Escuela Normal Superior Antonio Mentruyt",
+      "area": "General Certificate of Secondary School",
+      "studyType": "General Certificate of Secondary School oriented in Natural Sciences and Ecology",
+      "startDate": "March 2001",
+      "endDate": "December 2003",
+    },
+    {
+      "institution": "Liceo Superior de Cultura Inglesa",
+      "area": "Language",
+      "studyType": "Professor of English",
+      "startDate": "",
+      "endDate": "December 2001",
+    },
+    {
+      "institution": "Universidade Federal do Vale do Sao Francisco",
+      "area": "Literature. “Projeto Narrativas e Visualidades: Cursos de Extensão a Distância”",
+      "studyType": "Seminar “A Voz Feminina na Literatura Africana de Língua Portuguesa”",
+      "startDate": "March 2016",
+      "endDate": "June 2016",
+    },
+    {
+      "institution": "Alliance Francaise Toulouse Midi-Pyrennes",
+      "area": "Language",
+      "studyType": "Intensive French Language Course",
+      "startDate": "January 2014",
+      "endDate": "February 2014",
+    }
+  ],
+  "awards": [
+    {
+      "title": "Digital Humanities Summer Institute Tuition Scholarship",
+      "date": "June 2017",
+      "awarder": "DHSI",
+      "summary": "Digital Humanities Summer Institute Tuition Scholarship. University of Victoria, Canada. June 2017."
+    },
+    {
+      "title": "Spring-Summer Research Grant",
+      "date": "May 2016",
+      "awarder": "Rackham Graduate School, University of Michigan",
+      "summary": "Spring-Summer Research Grant for “Distant reading and “racial stories”. Using digital humanities tools to process narratives about Argentina’s “Negro Raul”” in partnership with Professor Paulina Alberto. Rackham Graduate School, University of Michigan. May-August 2016."
+    },
+    {
+      "title": "Student Engagement Program-Student Mini Grant",
+      "date": "November 2015",
+      "awarder": "University of Michigan Library",
+      "summary": "Student Engagement Program-Student Mini Grant for “Transnational Solidarity for Peru: Quipu Project”. University of Michigan Library,University of Michigan, November 2015."
+    }
+  ],
+  "publications": [
+    {
+      "name": "\"Moving across the Scale: A Reflection on the use of Digital Tools for Historical Analysis\".",
+      "releaseDate": "March 2017",
+      "website": "http://www.msuglobaldh.org/",
+      "summary": "Moving across the Scale: A Reflection on the use of Digital Tools for Historical Analysis\". Global Digital Humanities Symposium. Michigan State University. March 2017."
+    },
+    {
+      "name": "“Je est un autre”: On Pedro Costa’s Collaborative Act at Filming”.",
+      "releaseDate": "February 2017",
+      "website": "https://sites.lsa.umich.edu/frakerconference/",
+      "summary": "““Je est un autre”: On Pedro Costa’s Collaborative Act at Filming”. 21st Charles F. Fraker Conference “The Image Reframed: Visions of Instability”. University of Michigan. February 2017."
+    },
+    {
+      "name": "“Close versus Distant? A Reflection on the use of Distant Reading for Historical Analysis in the Classroom.”",
+      "releaseDate": "February 2017",
+      "website": "http://lsa.umich.edu/humanities",
+      "summary": "“Close versus Distant? A Reflection on the use of Distant Reading for Historical Analysis in the Classroom.” Digital Pedagogies Lightning Talks and Workshop. Institute for the Humanities. University of Michigan. February 2017."
+    },
+    {
+      "name": "“Identidades neuróticas: os limites do lusotropicalismo no Portugal contemporâneo”",
+      "releaseDate": "December 2017",
+      "website": "http://afrolicufrpe.blogspot.com/",
+      "summary": "“Identidades neuróticas: os limites do lusotropicalismo no Portugal contemporâneo” – VI Encontro de Professores de Literaturas Africanas/ II AFROLIC “Dizer Africas: Vozes, Literatura, Mulher”. Universidade Federal Rural de Pernambuco, Recife, Brazil. December 2017"
+    },
+    {
+      "name": "2016 Chicago Colloquium on Digital Humanities & Computer Science",
+      "releaseDate": "November 2016",
+      "website": "https://dhcs.uic.edu/",
+      "summary": "Participation in 2016 Chicago Colloquium on Digital Humanities & Computer Science “New Directions”. University of Illinois, Chicago.November 2016."
+    },
+    {
+      "name": "“Migraciones contemporáneas e identidad: Miradas sobre Palestina”",
+      "releaseDate": "August 2014",
+      "website": "http://aladaa.com.ar/asiayafrica/",
+      "summary": "“Migraciones contemporáneas e identidad: Miradas sobre Palestina”.National Congress of ALADAA (Latin American association of Asian and African studies). Centro Cultural de la Cooperacion, Buenos Aires, Argentina. August 2014."
+    },
+    {
+      "name": "“Etíopes Judíos en Israel: entre el asentamiento y la discriminación.(1984-2012)”.",
+      "releaseDate": "August 2013",
+      "website": "http://aladaa.com.ar/asiayafrica/",
+      "summary": "“Etíopes Judíos en Israel: entre el asentamiento y la discriminación.(1984-2012)”. XIV Internacional Congress of ALADAA (Latin American association of Asian and African studies). Universidad Nacional de La Plata, Buenos Aires, Argentina."
+    }
+  ],
+  "languages": [
+    {
+      "language": "Spanish",
+      "fluency": "Native speaker"
+    },
+    {
+      "language": "English ",
+      "fluency": "Fluent"
+    },
+    {
+      "language": "Portuguese",
+      "fluency": "Fluent"
+    },
+    {
+      "language": "French",
+      "fluency": "Upper Intermediate Level"
+    },
+    {
+      "language": "Italian",
+      "fluency": "Beginner"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Yoga",
+      "keywords": []
+    },
+    {
+      "name": "",
+      "keywords": []
+    }
+  ],
+}

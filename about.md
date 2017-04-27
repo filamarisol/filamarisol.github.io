@@ -13,9 +13,3 @@ permalink: /about/
 <td style="width: 256px; height: 137px; text-align: center;">
 <p>&nbsp;<a href="https://filamarisol.github.io/images/image1.png"><img style="display: block; border-width: auto; margin: auto;" src="/images/image1.png" alt="/images/image1.png" /></a>This is me when <em>I go virtual</em>.</p>
 </td>
-</tr>
-<tr style="height: 25px;">
-<td style="width: 960px; height: 25px;" colspan="2">&nbsp;</td>
-</tr>
-</tbody>
-</table>

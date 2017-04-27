@@ -47,7 +47,7 @@ Comments, suggestions and ideas are very welcome and truly appreciated! You can 
 
 <a href="/blogposts/Topic-Modeling.html" target="_blank">Topic Modeling Twentieth Century Cartoons</a>
 
-#### March 23rd, 2017
+### March 23rd, 2017
 
 <a href="/blogposts/Network-Analysis.html" target="_blank">Getting Started with Network Analysis. Palladio 101</a>
 

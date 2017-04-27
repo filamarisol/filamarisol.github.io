@@ -4,8 +4,8 @@
 
 .intro {
   margin: 1rem 0;
-  padding-top: 2rem;
-  padding-bottom: 2rem;
+  padding-top: 0rem;
+  padding-bottom: 0rem;
 }
 
 .intro-image {
@@ -38,7 +38,7 @@
 
 .intro-title {
   @include fluid-type($min-vw, $max-vw, 26px, 80px);
-  margin-bottom: 1rem;
+  margin-bottom: 0rem;
   color: tint($text-color, 25%);
   line-height: 1;
 }

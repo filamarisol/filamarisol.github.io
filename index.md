@@ -1,10 +1,7 @@
 ---
 layout: page
+title: Home 🏖️
 ---
-
-## Home 🏖️
-
---------
 
 Hi everybody! This site is part of the Winter 2017 [Digital History course](http://fredgibbs.net/courses/digital-methods/schedule.html) from the [History Department](https://lsa.umich.edu/history) at the [University of Michigan](https://www.umich.edu/).
 

@@ -13,20 +13,65 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
+lang: en-US
 title: Marisol Fila
-email: mafila@umich.edu
+email: email:mafila@umich.edu
 description: PhD Student, Romance Languages and Literatures, University of Michigan
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: # the optional subpath of your site, e.g. "/blog"
+url: # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+author:
+  name: Marisol Fila
+  twitter: marisolfi
+  picture: "/images/Home-Picture.png/"
 twitter_username: marisolfi
-github_username:  filamarisol
+github_username: filamarisol.github.io
+logo: "/images/Home-Picture.png/"
 
 # Build settings
 markdown: kramdown
-theme: 'jekyll-theme-cayman'
+theme: jekyll-theme-basically-basic
 gems:
   - jekyll-feed
-  - jemoji
+  - jekyll-seo-tag
+  - jekyll-sitemap
+  - jekyll-paginate
+feed:
+  path: atom.xml
+
+# Pagination - https://jekyllrb.com/docs/pagination/
+paginate: 10
+paginate_path: /page:num/
+
+# Exclude from processing.
 exclude:
+  - .asset-cache
+  - .bundle
+  - .codeclimate.yml
+  - .editorconfig
+  - .gitattributes
+  - .jekyll-assets-cache
+  - .sass-cache
+  - .scss-lint.yml
+  - CHANGELOG
   - Gemfile
   - Gemfile.lock
+  - LICENSE
+  - node_modules
+  - Rakefile
+  - README
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
+  - /docs # ignore Basically Basic sample site
+  - /example # ignore Basically Basic dev site
+
+# Front Matter Defaults
+defaults:
+  # _posts
+  - scope:
+      path: /index/
+      type:
+    values:
+      layout: page
+      read_time: true

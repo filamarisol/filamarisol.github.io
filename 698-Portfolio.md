@@ -6,16 +6,6 @@ permalink: /698-Portfolio/
 
 ---
 
-As my navigation bar is under construction, and I don't want you to get trapped in this page, I'm temporarily including the links to the different sections of the site below...with very little style, I know!! 🙈🙉🙊
-
-[Home](/home/)
-
-[About](/about/)
-
-[CV](/cv/)
-
-[Links](/links/)
-
 ## Blogposts
 
 
@@ -59,7 +49,7 @@ Comments, suggestions and ideas are very welcome and truly appreciated! You can 
 
 #### March 23rd, 2017
 
-<a href="/blogposts/Network-Analysis.html" target="_blank">Getting Started with Network Analysis: Palladio 101 Techniques</a>
+<a href="/blogposts/Network-Analysis.html" target="_blank">Getting Started with Network Analysis: Palladio 101</a>
 
 #### March 30th, 2017
 

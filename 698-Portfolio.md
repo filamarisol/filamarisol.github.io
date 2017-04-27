@@ -17,7 +17,7 @@ Comments, suggestions and ideas are very welcome and truly appreciated! You can 
 
 #### January 11th, 2017
 
-<a href="/blogposts/Spiro-Post1.html" target="_blank"> On Lisa Spiro’s This Is Why We Fight: Defining the Values of the Digital Humanities</a>
+<a href="/blogposts/Spiro-Post1.html" target="_blank"> On Lisa Spiro’s This Is Why We Fight. Defining the Values of the Digital Humanities</a>
 
 #### January 18th, 2017
 
@@ -49,7 +49,7 @@ Comments, suggestions and ideas are very welcome and truly appreciated! You can 
 
 #### March 23rd, 2017
 
-<a href="/blogposts/Network-Analysis.html" target="_blank">Getting Started with Network Analysis: Palladio 101</a>
+<a href="/blogposts/Network-Analysis.html" target="_blank">Getting Started with Network Analysis. Palladio 101</a>
 
 #### March 30th, 2017
 
@@ -57,11 +57,11 @@ Comments, suggestions and ideas are very welcome and truly appreciated! You can 
 
 #### April 6th, 2017
 
-<a href="/blogposts/Digital-Pedagogy.html" target="_blank">On Digital Literacies and Digital Pedagogy: Some Reflections</a>
+<a href="/blogposts/Digital-Pedagogy.html" target="_blank">On Digital Literacies and Digital Pedagogy. Some Reflections</a>
 
 #### April 13th, 2017
 
-<a href="/blogposts/DH-Review.html" target="_blank">Visualizing Large Collections: Reviewing Mapping Texts Project</a>
+<a href="/blogposts/DH-Review.html" target="_blank">Visualizing Large Collections. Reviewing Mapping Texts Project</a>
 
 <body id="top">
   ...

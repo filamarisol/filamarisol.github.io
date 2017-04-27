@@ -1,6 +1,6 @@
 ---
 layout: page
-title: On Digital Literacies and Digital Pedagogy: Some Reflections.
+title: On Digital Literacies and Digital Pedagogy. Some Reflections.
 ---
 
 I would like to use this post to reflect on some of the topics address in a series of articles that we read for today’s class. I will be briefly discussing Johanna Drucker’s [Humanities Approaches to Graphical Display](http://digitalhumanities.org/dhq/vol/5/1/000091/000091.html), John Theibault’s [Visualizations and Historical Arguments](http://writinghistory.trincoll.edu/evidence/theibault-2012-spring/), John Rosinbum’s [Teaching with #DigHist](http://blog.historians.org/2016/08/teaching-with-digital-history/) and [Teaching the Slave Trade with Voyages: The Transatlantic Slave Trade Database](http://blog.historians.org/2016/10/teaching-slave-trade-voyages-transatlantic-slave-trade-database/) and Elijah Meeks [Infoviz and New Literacies](https://dhs.stanford.edu/algorithmic-literacy/infoviz-and-new-literacies/). I am interested in Digital Pedagogy and I am in the process of creating a project for a course that will include the application of digital tools to the learning of a foreign language, so I would like to use this space to reflect on some of this authors’ ideas and to consider them in the light of my own work.

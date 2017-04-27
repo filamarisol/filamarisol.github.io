@@ -3,7 +3,9 @@ layout: page
 title: About
 permalink: /about/
 ---
-<img src="/images/image1.png">
+<img src="/images/image1.png" style="
+   margin-left: 500px;
+">
 
 
 This is me when *I go virtual*.

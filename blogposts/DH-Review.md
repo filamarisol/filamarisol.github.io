@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Visualizing Large Collections: Reviewing Mapping Texts Project
+title: Visualizing Large Collections. Reviewing Mapping Texts Project
 ---
 
 In this post I would like to review the Digital Humanities Project [Mapping Texts](http://mappingtexts.org/). Mapping Texts was a collaboration between scholars, staff and students at Stanford University and the University of North Texas. It was supported by the National Endowment for the Humanities. The purpose of the project was **“experimenting with new methods methods for finding and analyzing meaningful patterns embedded in massive collections of digital newspapers”**. The database was a collection of 232,500 pages of historical newspapers digitized for the Chronicling America project. The project was finished in 2011 and for what you can see in the website, there hasn’t been any later updates or new analysis.

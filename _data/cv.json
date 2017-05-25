@@ -122,6 +122,20 @@
       "endDate": "",
     },
     {
+      "institution": "University of Michigan",
+      "area": "Graduate Certificate in Afro-Luso-Brazilian Studies ",
+      "studyType": "",
+      "startDate": "",
+      "endDate": "Expected Fall 2019",
+    },
+    {
+      "institution": "University of Michigan",
+      "area": "AfroAmerican and African Studies ",
+      "studyType": "African Studies Certificate",
+      "startDate": "",
+      "endDate": "Expected Winter 2018",
+    },
+    {
       "institution": "Universidad de Buenos Aires",
       "area": "Facultad de Filosofia y Letras. Historia",
       "studyType": "Professor of History with Honor Diploma",
@@ -155,7 +169,21 @@
       "studyType": "Intensive French Language Course",
       "startDate": "January 2014",
       "endDate": "February 2014",
-    }
+    },
+    {
+      "institution": "University of Michigan",
+      "area": "Mellon Public Humanities.Rackham Graduate School ",
+      "studyType": "Speaking in Code",
+      "startDate": "",
+      "endDate": "May 2017",
+    },
+    {
+      "institution": "University of Victoria",
+      "area": "2017 Digital Humanities Summer Institute  ",
+      "studyType": "Open Access and Open Social Scholarship ",
+      "startDate": "",
+      "endDate": "June 2017",
+    },
   ],
   "awards": [
     {
